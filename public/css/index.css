@@ -1,0 +1,99 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif; }
+
+.App {
+  margin-left: 120px; }
+
+.App-logo {
+  width: 44%;
+  margin: 10px 10px 0 10px; }
+
+.App-header {
+  display: flex; }
+
+.App-header-right {
+  display: flex;
+  margin-left: 47%;
+  margin-top: 17px; }
+
+.fa-facebook {
+  margin: 10px 10px 0 10px; }
+
+.fa-twitter {
+  margin: 10px 10px 0 10px; }
+
+.App-title {
+  font-size: 1.5em; }
+
+.App-header-title {
+  font-size: 1.5em;
+  font-weight: 600;
+  margin: 0px 10px;
+  margin-top: -10px;
+  margin-left: 18px; }
+
+.App-body {
+  position: relative; }
+
+.App-header-img {
+  width: 93%; }
+
+.App-intro {
+  font-size: large; }
+
+.img-in-title {
+  position: absolute;
+  top: 7%;
+  left: 24%;
+  text-align: center; }
+
+.img-in-title-headline {
+  color: #fff;
+  font-size: 60px;
+  text-align: center; }
+
+.img-in-title-description {
+  color: #fff;
+  margin-top: -50px;
+  font-size: 30px; }
+
+.img-in-title-form {
+  color: #fff;
+  margin-top: 80px;
+  font-size: 40px; }
+
+.img-in-title-form-name {
+  height: 40px;
+  width: 65%;
+  margin-left: 17%;
+  background-color: rgba(255, 255, 255, 0.5);
+  margin-bottom: 20px;
+  margin-top: -30px; }
+  .img-in-title-form-name p {
+    padding-top: 8px;
+    color: #fff; }
+
+.img-in-title-form-mailadress {
+  height: 40px;
+  width: 65%;
+  margin-left: 17%;
+  background-color: rgba(255, 255, 255, 0.5);
+  margin-bottom: 20px; }
+  .img-in-title-form-mailadress p {
+    padding-top: 8px;
+    color: #fff; }
+
+.img-in-title-form-comfirm {
+  height: 40px;
+  width: 65%;
+  margin-left: 17%;
+  background-color: #ff4500;
+  margin-bottom: 20px; }
+  .img-in-title-form-comfirm p {
+    padding-top: 8px;
+    color: #fff; }
+
+.App-second-img {
+  width: 93%; }
